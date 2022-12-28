@@ -1,5 +1,6 @@
 # SQLsamples
-A collection of my sample SQL files using the dataset Data Science Jobs
+A collection of my sample SQL files using the dataset Data Science Jobs that i loaded into my own SQL Database on my personal local host  
+
 
 Data Preprocessing - Update data for better understanding
 
